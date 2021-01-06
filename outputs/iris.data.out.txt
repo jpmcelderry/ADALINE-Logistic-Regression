@@ -1,0 +1,24 @@
+--------------HOLD OUT SET: 1---------------
+Adaline Error %: 16.666666666666664
+Logistic Regression Error %: 13.333333333333334
+
+--------------HOLD OUT SET: 2---------------
+Adaline Error %: 20.0
+Logistic Regression Error %: 23.333333333333332
+
+--------------HOLD OUT SET: 3---------------
+Adaline Error %: 3.3333333333333335
+Logistic Regression Error %: 20.0
+
+--------------HOLD OUT SET: 4---------------
+Adaline Error %: 16.666666666666664
+Logistic Regression Error %: 16.666666666666664
+
+--------------HOLD OUT SET: 5---------------
+Adaline Error %: 13.333333333333334
+Logistic Regression Error %: 10.0
+
+--------------AVERAGE PERFORMANCE---------------
+Adaline Error %: 14.000000000000002
+Logistic Regression Error %: 16.666666666666664
+
