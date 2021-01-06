@@ -1,3 +1,7 @@
+# ADALINE/Logistic Regression
+
+An implementation of ADALINE and Logistic Regression for linear classification and regression
+
 Assignment written in Eclipse for Java, Version: 2019-12
 
 The program for Intro to Machine Learning Programming Assignment 4 can be run as follows:
